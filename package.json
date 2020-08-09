@@ -1,0 +1,16 @@
+{
+  "name": "algorithms-JS",
+  "version": "1.0.0",
+  "description": "learning repo for algorithms",
+  "main": "index.js",
+  "repository": "git@github.com:DmitryVdovichencko/algorithms-JS.git",
+  "author": "Dmitry Vdovichenko <dmitry.vdovichencko@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "jest-cli": "^26.2.2"
+  }
+}

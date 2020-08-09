@@ -1,5 +1,6 @@
 const binarySearch = (list, item) => {
 	// define limit values for search
+	// begin search in range 0 .. list.length
 	let high = list.length, low = 0;
 	// while we have more than one element 
 	while (low <= high) {
@@ -24,3 +25,4 @@ const binarySearch = (list, item) => {
   	}
   	return "Item not exist";
 }
+export default binarySearch;
