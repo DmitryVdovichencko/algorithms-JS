@@ -38,3 +38,19 @@ In JS we use it everywhere!
 
 
 ## Algorithms
+
+### About algorithms in common
+
+__Algorithm__ - is a set of instructions for accomplishing a task.
+
+## Basic algorithms
+
+### Binary search
+
+__Task:__ Search position of element from list.
+
+__Input:__ sorted list of elements.
+
+__Result:__ position of searchable element
+
+
